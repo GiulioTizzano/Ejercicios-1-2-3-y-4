@@ -1,0 +1,23 @@
+Explique los tipos básicos de Java:
+
+Los tipos básicos de Java son aquellos tipos que son nativos del lenguje. Los tipos de básicos
+son los siguentes --> byte, short, int, long, float, double, boolean y char (el String también, pero el String
+es simplemente un array (cadena) de caracteres char.)
+
+byte --> repesenta un tipo de dato de 8 bits con signo.
+
+short --> representa un tipo de dato de 16 bits con signo.
+
+int --> es un tipo de dato de 32 bits con signo para almacenar números enteros.
+
+long --> es un tipo de dato de 64 bits que almacena valores númericos entre -2^63 a 2^63.
+
+float --> es un tipo para representar números en coma flotante con precisión simple de 
+32 bits.
+
+double --> es un tipo de para representar números en coma flotante con doble
+precisión de 64 bits.
+
+boolean --> sirve para definir tipos booleanos (true or false).
+
+char --> tipo de dato que representa a un carácter sencillo de 16 bits.

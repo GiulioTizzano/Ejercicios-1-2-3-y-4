@@ -1,0 +1,10 @@
+Explique los diferentes niveles de computación vistos en clase:
+
+Los dos niveles de computación que hemos visto en clase son el del cógido de alto niveles
+y el del código ensamblador:
+
+1. En el cógido de alto nivel hay un compilador/intérprete que traduce el código escrito en el lenguaje de alto nivel
+a código máquina que posteriormente se ejecuta por los diferentes componentes del hardware.
+
+2. El código ensamblador usa el ensablador para traducir todo el código máquina y luego posteriormente
+se ejecuta por los diferentes componentes del hardware.

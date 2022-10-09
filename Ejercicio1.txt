@@ -1,0 +1,60 @@
+Defina los siguentes términos:
+
+1) Objeto: un objecto en la POO es un tipo de dato abstracto cuya funcionalidad es representar información y caracteristicas de una clase. Por eso mismo
+a los objetos se les llama instancias de la clase. 
+
+2) Propiedad de un objeto: una propiedad es un atributo de un objeto, es decir el conjunto
+de caracteristicas del objeto que lo definen (color, tamaño, ...).
+
+3) Mensaje: un mensaje petición de una acción o servicio al objeto.
+
+4) Clase: una clase es un 'molde' que se usa para crear distintos objetos con caracteristicas
+comunes entre sí.
+
+5) Atributo: un atributo es una información que un objeto posee.
+
+6) Método: un método es una abstracción de una operación que puede realizarse sobre
+uno o más objetos. También podríamos pensar que un método es simplemente una función 
+pero que pertenece a un objeto o clase. 
+
+7) Miembro estático de una clase (atributos y métodos de clase): una clase estática es una clase tal cual como la conocemos
+pero con la diferencia de que no se pueden crear instancias en una clase estática.
+
+8) Variable: Una variable es un espacio en memoria en el que guardamos temporalmente 
+un valor determinado (o dato).
+
+9) Parámetro: los valores de entrada que recibe un método o una función.
+
+10) Tipo: un tipo en java (y en cualquier lenguaje de programación) es el modelo de datos
+que se una para representar una variable (por ejemplo para trabajar con números enteros, ...).
+
+11) Tipo básico: un tipo básico, también conocido como tipos primitivos con aquellos tipos de datos
+que se usan para represantar una variable que ya están incorporados en Java (int, char, String, float, ...).
+
+12) UML: el UML (Lenguaje unificado de Modelado) es un lenguaje gráfico estándar para visualizar y construir un sistema
+, incluyendo aspectos conceptuales como procesos, esquemas de bases de datos, ..., .
+
+13) Compilador: es un programa informático que traduce el contenido de un lenguaje de alto nivel o bajo nivel
+a lenguaje de máquina.
+
+14) Intérprete: es un programa informático que es capaz de analizar y ejecutar programas escritos en lenguajes de alto nivel
+a medida que se ejecuta el programa.
+
+15) Paso de parámetros por valor: el paso de parámetros por valor significa que al pasarle un variable de tipo primitivo a un método
+o una función como argumento, a la variable le llega una copia de la dirección en memoria del objeto
+y por lo tanto la variable es un puntero a una copia de la dirección en memoria del objeto. 
+
+16) Paso de parámetros por referencia: el paso de parámrtro por referencia significa que al pasarle un objeto
+como argumento a un método, ésta apunta a la misma dirección en memoria que el objeto de la clase.
+
+17) El objeto this: this en java hace referencia al objeto actual de la clase.
+
+18) Los setters: el método setter da accesco a modificar el atributo de una clase.
+
+19) Los getters: el método getter da accesco al atributo en sí de la clase.
+
+20) Sobrecarga: la sobrecarga es la creación de varios métodos con el mismo nombre, pero 
+con diferente lista de tipos de parámetros.
+
+21) El classpath: es un directorio que contiene las rutas en donde las herramientas de Java
+y la JVM deben mirar para localizar los archivos de código y los paquetes que se van a utilizar.
